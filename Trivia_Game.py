@@ -1,4 +1,4 @@
-print("Welcome Game of Thrones Trivia!")
+print("Welcome to Game of Thrones Trivia!")
 
 playing = input("Would you like to play?")
 

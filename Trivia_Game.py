@@ -43,5 +43,5 @@ if answer == "Castle Black":
 else:
     print("Incorrect!")
 
-print("you got " + str(score) + "questions correct!")
+print("you got " + str(score) + " questions correct!")
 print("you got " + str((score / 5) * 100) + "%.")
